@@ -1,0 +1,2 @@
+This project explores the relationship between the Russia-Ukraine war and Brent crude oil prices using OLS regression in Python. It uses daily price data from FRED (DCOILBRENTEU), models a post-war shift in prices while controlling for a time trend, and visualises actual vs. predicted prices using pandas, statsmodels, and matplotlib.
+It was built to demonstrate a basic working knowledge of Python for data analysis rather than as a rigorous econometric study. The model is intentionally simple and does not account for all factors that influence oil prices.
